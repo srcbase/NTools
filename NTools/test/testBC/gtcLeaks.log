@@ -1,0 +1,3919 @@
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(111) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(120) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(125) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(111) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(120) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(125) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(111) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(120) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(125) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(111) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(120) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(125) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(112) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(121) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(126) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(114) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(123) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(128) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(117) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(126) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(131) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(121) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(130) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(135) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(126) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(140) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(135) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(137) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(151) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(146) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(147) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(156) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(147) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(156) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(147) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(156) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(147) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(156) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(170) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(175) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(161) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(170) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(175) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(189) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(203) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(198) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(189) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(203) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(198) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(189) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(198) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(203) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(202) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(211) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(216) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(215) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(224) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(215) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(224) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(221) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(230) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(235) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(243) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(238) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(243) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(243) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(229) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(243) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(238) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(233) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(242) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(247) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(236) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(245) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(250) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(236) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(250) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(245) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(237) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(246) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(251) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(238) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(252) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(247) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(239) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(253) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(248) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(245) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(259) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(254) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(247) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(256) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(261) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(254) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(268) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(263) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(256) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(265) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(270) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(262) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(271) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(276) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(266) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(275) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(280) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(287) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(301) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(296) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(297) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(306) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(311) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(299) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(308) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(313) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(299) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(308) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(313) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {72 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(309) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (1) Allocation(s) with total 4 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {4 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 404 bytes.
+gtc Memory: Dumping allocations -> 
+d:\ntools\test\testbc\testbase.cpp(318) : {400 bytes} function: testMemory
+d:\ntools\test\testbc\testbase.cpp(323) : {4 bytes} function: testMemory
+
+-----------------------------------------------------------------------------------
+gtc Memory: No memory leaks
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (2) Allocation(s) with total 44 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+
+-----------------------------------------------------------------------------------
+gtc Memory: Detected memory leaks !!! 
+gtc Memory: (4) Allocation(s) with total 124 bytes.
+gtc Memory: Dumping allocations -> 
+(unknown source):(0) : {72 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+(unknown source):(0) : {36 bytes} function: 
+(unknown source):(0) : {8 bytes} function: 
+

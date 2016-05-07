@@ -1,0 +1,5 @@
+1、将include目录下的文档复制到 VC\atlmfc\include下
+
+2、在VC\VCWizards\AppWiz目录新建一个文件夹WTL，将AppWiz目录下的所有文件复制过来
+
+3、执行VC\VCWizards\AppWiz\WTL\setup.js

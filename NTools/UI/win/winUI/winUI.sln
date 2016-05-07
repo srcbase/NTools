@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winUI", "winUI.vcxproj", "{A703F6C8-D999-4F74-9FA3-582C1A5DE6A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testwinUI", "..\testwinUI\testwinUI.vcxproj", "{B5A57CCB-49DE-47CB-8058-5A7AE641EEF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A703F6C8-D999-4F74-9FA3-582C1A5DE6A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A703F6C8-D999-4F74-9FA3-582C1A5DE6A3}.Debug|Win32.Build.0 = Debug|Win32
+		{A703F6C8-D999-4F74-9FA3-582C1A5DE6A3}.Release|Win32.ActiveCfg = Release|Win32
+		{A703F6C8-D999-4F74-9FA3-582C1A5DE6A3}.Release|Win32.Build.0 = Release|Win32
+		{B5A57CCB-49DE-47CB-8058-5A7AE641EEF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5A57CCB-49DE-47CB-8058-5A7AE641EEF2}.Debug|Win32.Build.0 = Debug|Win32
+		{B5A57CCB-49DE-47CB-8058-5A7AE641EEF2}.Release|Win32.ActiveCfg = Release|Win32
+		{B5A57CCB-49DE-47CB-8058-5A7AE641EEF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

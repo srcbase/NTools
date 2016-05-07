@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>日志输出</title>
+	<script type="text/javascript">
+		var log_flag={normal:"", error:"error", warning:"warning", note:"note"};
+		function addLog(lgFlag, lgDatetime, lgElapsed, lgDesc){
+			var table = document.getElementById("alternatecolor");
+			var row_no = table.rows.length;
+			var tr = table.insertRow(row_no);
+			tr.className = lgFlag;
+			if(row_no % 2 == 0){
+				tr.className += " evenrowcolor";
+			}else{
+				tr.className += " oddrowcolor";
+			}  
+			var td = tr.insertCell();
+			td.align = "center";
+			td.innerText = row_no;
+			td = tr.insertCell(1);
+			td.align = "center";
+			td.innerText = lgDatetime;
+			td = tr.insertCell(2);
+			td.align = "center";
+			td.innerText = lgElapsed;
+			td = tr.insertCell(3);
+			td.innerText = lgDesc;
+			
+			window.scrollTo(0, document.body.scrollHeight);
+		}
+	</script>
+	
+	<style type="text/css">
+		.warning {
+			color: #3300FF;
+		}
+		.note {
+			color: #FF00FF;
+		}
+		.error {
+			color: #FF0000;
+		}
+		.oddrowcolor{
+			background-color:#d4e3e5;
+		}
+		.evenrowcolor{
+			background-color:#c3dde0;
+		}
+		
+		h1 {
+			color:#CC0033;
+			text-decoration: underline;
+			text-align:center;
+		} 
+		table.altrowstable {
+			font-family: verdana,arial,sans-serif;
+			font-size: 11px;
+			color: #333333;
+			border-width: 1px;
+			border-color: #a9c6c9;
+			border-collapse: collapse;
+		}
+		table.altrowstable th {
+			font-family: "微软雅黑";
+			font-size: 16px;
+			border-width: 1px;
+			padding: 8px;
+			border-style: solid;
+			border-color: #a9c6c9;
+			background-color: #99CC99;
+		}
+		table.altrowstable td {
+			border-width: 1px;
+			padding: 6px;
+			border-style: solid;
+			border-color: #a9c6c9;
+		}
+
+		.div_inline {
+			display:inline;
+			font-family: "微软雅黑";
+			font-size: 16px;
+		}
+	</style> 
+</head>
+<body>
+	<h1>日志</h1>
+	<div class="normal div_inline">■　常规　　　</div>
+	<div class="note div_inline">■　注意　　　</div>
+	<div class="warning div_inline">■　警告　　　</div>
+	<div class="error div_inline">■　错误　　　</div>
+	<p/>
+	<table class="altrowstable" id="alternatecolor">
+    <tr>
+        <th width="35px">序号</th>
+        <th width="120px">时间</th>
+		<th width="35px">耗时</th>
+        <th align="left">描述</th>
+    </tr>
+    
+</table>
+</body>
+</html>

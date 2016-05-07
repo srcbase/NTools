@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Window size="400,200" mininfo="300,200" maxinfo="800,600" caption="0,0,0,26" roundcorner="4,4" sizebox="4,0,4,4" alpha="200" bktrans="true" defaultfontcolor="#FFFFFFFF" >
+	<VerticalLayout >
+		<!-- 标题栏区 -->
+        <HorizontalLayout height="26" bkcolor="#FFA0A0A0"> <!-- 标题栏背景色 bkcolor、bkcolor2、bkcolor3分别是渐变色的三个值-->
+        	<VerticalLayout width="32" >
+        		<!-- 锁定窗口按钮 -->
+        		<Button name="btnLock" float="true" pos="2,2,0,0" width="22" height="16" tooltip="锁定窗口，被锁定后不能移动或改变大小。" normalimage=" file='SysBtn\MinNormal.bmp' " hotimage=" file='SysBtn\MaxFocus.bmp' " pushedimage=" file='SysBtn\MinFocus.bmp' " />
+        	</VerticalLayout>
+        	<VerticalLayout >
+        	    <!--Button name="btnTitle" height="26" textpadding="4,0,4,0" textcolor="#FFFFFFFF" text="桌面墙纸" align="center" hotimage="file='btn_hot.png' corner='2,8,2,2'" / -->
+        	    <Text name="txtTitle" text="桌面墙纸" />
+            	<RichEdit name="reditTitle" float="true" pos="50,2,0,0" height="22" width="50" inset="4,5,2,2" bordercolor="#FFCCCCCC" bordersize="1" align="center" visible="false" bordervisible="true" bkcolor="#FFFFFFFF" text="编辑个性签名" multiline="false" rich="false"/>
+        	</VerticalLayout>
+        	<VerticalLayout width="32" >
+        		<!-- 窗口菜单按钮 -->
+   		        <Button name="btnMenu" float="true" pos="2,2,0,0" width="22" height="16" normalimage=" file='SysBtn\CloseNormal.bmp' " hotimage=" file='SysBtn\MinFocus.bmp' " pushedimage=" file='SysBtn\CloseFocus.bmp' " />
+        	</VerticalLayout>
+        </HorizontalLayout>
+		<!-- 客户区 -->
+	    <HorizontalLayout bkcolor="#FFC0C0C0" >
+	    	<Button name="btnHello" text="Hello World" float="true" pos="100,100,0,0" width="100" height="50" bkcolor="#0000FF00" enabled="false" />
+	    	<Button name="btnClose" text="关闭" float="true" pos="200,150,0,0" width="100" height="50" bkcolor="#000000FF" />
+	    </HorizontalLayout>
+	</VerticalLayout>
+
+</Window>

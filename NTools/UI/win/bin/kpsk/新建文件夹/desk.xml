@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Window size="320,309" mininfo="240,214" maxinfo="800,600" caption="0,0,0,26" roundcorner="4,4" sizebox="4,0,4,4" alpha="200" bktrans="true" defaultfontcolor="#FFFFFFFF" >
+	<Default name="VScrollBar" value="button1normalimage=&quot;file='kpsk\scrollbar.bmp' source='0,90,16,106' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='kpsk\scrollbar.bmp' source='18,90,34,106' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,90,52,106' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,90,70,106' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='kpsk\scrollbar.bmp' source='0,108,16,124' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='kpsk\scrollbar.bmp' source='18,108,34,124' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,108,52,124' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,108,70,124' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,126,16,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,126,34,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,126,52,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,126,70,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,144,16,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,144,34,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,144,52,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,144,70,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,162,16,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,162,34,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,162,52,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,162,70,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+	<Default name="HScrollBar" value="button1normalimage=&quot;file='kpsk\scrollbar.bmp' source='0,0,16,16' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='kpsk\scrollbar.bmp' source='18,0,34,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,0,52,16' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,0,70,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='kpsk\scrollbar.bmp' source='0,18,16,34' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='kpsk\scrollbar.bmp' source='18,18,34,34' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,18,52,34' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,18,70,34' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,36,16,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,36,34,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,36,52,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,36,70,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,54,16,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,54,34,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,54,52,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,54,70,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='kpsk\scrollbar.bmp' source='0,72,16,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='kpsk\scrollbar.bmp' source='18,72,34,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='kpsk\scrollbar.bmp' source='36,72,52,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='kpsk\scrollbar.bmp' source='54,72,70,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+	<VerticalLayout >
+		<!-- 标题栏区 -->
+        <HorizontalLayout height="26" bkcolor="#FFA0A0A0"> <!-- 标题栏背景色 bkcolor、bkcolor2、bkcolor3分别是渐变色的三个值-->
+        	<VerticalLayout width="32" >
+        		<!-- 锁定窗口按钮 -->
+        		<Button name="btnLock" float="true" pos="2,2,0,0" width="22" height="16" tooltip="锁定窗口，被锁定后不能移动或改变大小。" normalimage=" file='SysBtn\MinNormal.bmp' " hotimage=" file='SysBtn\MaxFocus.bmp' " pushedimage=" file='SysBtn\MinFocus.bmp' " />
+        	</VerticalLayout>
+        	<VerticalLayout >
+				<HorizontalLayout />
+				<VerticalLayout />
+        	    <!--Button name="btnTitle" height="26" textpadding="4,0,4,0" textcolor="#FFFFFFFF" text="未命名" align="center" hotimage="file='btn_hot.png' corner='2,8,2,2'" / -->
+            	<Text name="txtTitle" width="50" height="22" text="未命名" bkcolor="#FF0000FF" align="center" textpadding="4,5,4,0" minwidth="50" tooltip="按F2键可重命名" />
+            	<!--RichEdit name="reditTitle" float="true" pos="50,2,0,0" height="22" width="50" inset="4,5,2,2" bordercolor="#FFCCCCCC" bordersize="1" align="center" visible="false" bordervisible="true" bkcolor="#FFFFFFFF" text="编辑个性签名" multiline="false" rich="false"/ -->
+				<VerticalLayout />
+				<HorizontalLayout />
+        	</VerticalLayout>
+        	<VerticalLayout width="32" >
+        		<!-- 窗口菜单按钮 -->
+   		        <Button name="btnMenu" float="true" pos="2,2,0,0" width="22" height="16" normalimage=" file='SysBtn\CloseNormal.bmp' " hotimage=" file='SysBtn\MinFocus.bmp' " pushedimage=" file='SysBtn\CloseFocus.bmp' " />
+        	</VerticalLayout>
+        </HorizontalLayout>
+		<!-- 客户区 -->
+	    <deskListCtrl name="lstDesk" bkcolor="#FFC0C0C0" vscrollbar="true" />
+	</VerticalLayout>
+
+</Window>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window><!--bkcolor="#FFFF0000" inset="1,1,1,1" bkimage="file='kpsk\table.png' source='0,0,64,64' dest='5,10,71,74'" -->
+	<Container width="80" height="94" inset="2,2,2,2" >
+		<Button name="btnNode" bkcolor="#FFB0B0B0" />
+	</Container>
+</Window>
